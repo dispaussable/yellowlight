@@ -6,3 +6,6 @@ Este es un proyecto experimental de IA para acompañamiento emocional, desarroll
 ## ¿Cómo ejecutarlo?
 
 1. Instala las dependencias:
+
+
+mmmm ola!!!!
