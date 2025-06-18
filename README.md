@@ -1,4 +1,4 @@
-# IA Terapeuta — Proyecto en desarrollo
+# IA Terapeuta proyecto en desarrollo
 
 proyecto con python usando gradio
 
