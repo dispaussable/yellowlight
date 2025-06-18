@@ -1,0 +1,8 @@
+gradio
+
+2. Corre el archivo:
+python holajajksjaja.py
+
+## Objetivos futuros
+- Analizar emociones desde el texto
+- Versión premium con análisis de tono de voz
