@@ -4,5 +4,6 @@ gradio
 python holajajksjaja.py
 
 ## Objetivos futuros
-- Analizar emociones desde el texto
-- Versión premium con análisis de tono de voz
+ Analizar emociones desde el texto
+ Versión premium con análisis de tono de voz
+ola!!!!!
