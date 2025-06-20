@@ -33,4 +33,4 @@ if __name__ == "__main__":
     # Ruta de ejemplo
 
     # Transcribir
-    transcribir_audio_whisper(archivo_audio)
+    transcribir_audio_whisper(archivode_audio)
