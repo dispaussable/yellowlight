@@ -31,7 +31,6 @@ def transcribir_audio_whisper(ruta_audio):
 # --- EJECUCIÓN ---
 if __name__ == "__main__":
     # Ruta de ejemplo
-    archivo_audio = r"C:\Users\BP_motta\Documents\Grabaciones de sonido\prueba.wav"  # Cambia por tu ruta
 
     # Transcribir
     transcribir_audio_whisper(archivo_audio)
